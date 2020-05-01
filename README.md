@@ -1,2 +1,3 @@
-# GDC-
-Gem Diamonds（GDC）令牌是一个独特的加密货币项目，由全球协作社区推动，没有私有企业议程的支持。作为代币化特许经营的新概念而闻名。
+Gem Diamonds (GDC) is an ERC20 token. Its primary utility is to provide an easy & fast payment solution. Its edge over other tokens is that it is capable of sending up to 255 payments in a single transaction.
+
+Gem Diamonds is a community-driven crypto ecosystem where Business and digital currency meet. Being an open source Community, we have an extensive global team that works around the clock and we are always inviting other developers with the same vision to join our ever-expanding global team of blockchain developers. We offer a E-commerce system services, that allow online and storefront merchants to accept many different crypo’s as a payment solution in franchising any kind of business. People can choose business they want to franchise and it would be easy to do it by using Gem Diamonds token and blockchain technology.
